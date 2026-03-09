@@ -1,0 +1,10 @@
+stable-baselines3[extra]
+gymnasium
+optuna
+pandas
+matplotlib
+seaborn
+numpy
+tensorboard
+pygame
+pytest

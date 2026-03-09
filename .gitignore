@@ -1,0 +1,25 @@
+# outputs
+results/
+logs/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+
+# env
+.env
+
+# editors
+.vscode/
+.idea/
+
+# ml / notebooks
+*.ipynb_checkpoints/
+optuna.db
+Thumbs.db
+desktop.ini
