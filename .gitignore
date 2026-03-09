@@ -23,3 +23,8 @@ build/
 optuna.db
 Thumbs.db
 desktop.ini
+
+
+# Extra
+docs/
+tests/
